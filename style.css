@@ -13,6 +13,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .hulf-width{
     width: 50%;
@@ -38,7 +39,11 @@ padding-left: 10%;
 .top-banner{
     background-repeat: no-repeat;
 }
-
+.dream-big{
+    background-image:url(image/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
 
 
 
