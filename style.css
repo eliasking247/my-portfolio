@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .Orenge-color{
     color: orange;
 }
@@ -57,7 +60,28 @@ background-size: 5%;
     
     
 }
+.experince-area{
+    margin-bottom: 5px;
+    margin-left: 10px;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 5%;
 
+}
 
+.experince-item{
+border-radius: 10px;
+    width: 40%;
+    margin-right: 10%;
+    margin: 5%;
+    margin-top: 10px;
+    padding-left: 10px;
+    box-shadow:10px 10px 40px gray;
+    border-color: orange;
+    border-left:solid orange;
+}
+.footer{
+    text-align: center;
+}
 
- 
