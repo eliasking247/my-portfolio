@@ -19,6 +19,7 @@ section{
     width: 50%;
 padding-left: 10%;
 }
+
 .hulf-width img{
      width: 80%;
 }
@@ -42,9 +43,20 @@ padding-left: 10%;
 .dream-big{
     background-image:url(image/dream-bg.png);
 background-repeat: no-repeat;
-background-position: right;
+background-position: right bottom;
+background-size: 5%;
+
+}
+.under-info{
+    color: orange;
 }
 
+.flexible-container{
+    width: 100%;
+    display:flex
+    
+    
+}
 
 
 
